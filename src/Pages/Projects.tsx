@@ -43,7 +43,7 @@ export default function Projects() {
 
   return (
     <Screen>
-        <div className="mt-20 sm:mt-28">
+        <div className="mt-20 sm:mt-28 mb-20">
   {isMobile ? (
     
    

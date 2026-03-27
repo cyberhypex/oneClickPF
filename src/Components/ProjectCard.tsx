@@ -57,7 +57,7 @@ export default function ProjectCard({
           <a href={github} target="_blank" className="underline">
             GitHub
           </a>
-        )}
+        )} 
         {live && (
           <a href={live} target="_blank" className="underline">
             Live
