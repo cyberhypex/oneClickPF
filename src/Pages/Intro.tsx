@@ -8,7 +8,7 @@ export default function Intro(){
 
        
         
-                <h1 className="text-2xl font-semibold">
+                <h1 className="text-2xl font-semibold text-white">
             Aspiring Full Stack Developer
         </h1>
 
