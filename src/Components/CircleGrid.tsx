@@ -3,7 +3,7 @@ import type { JSX } from "react"
 type Props={
     skills:string[]
 }
-
+//A component that takes in an array of skills and displays them in a circular grid pattern
 export default function CircleGrid({ skills }:Props) {
    const radius = 240;
 
